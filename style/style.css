@@ -1,0 +1,21 @@
+.section-1{
+    background-image: url("../assets/Hero-bg.png");
+    width: 1440px;
+}
+
+.section-1-img{
+    display: block;
+    margin: auto;
+
+}
+.section-1-btn{
+    display:flex;
+    justify-content: center;
+    
+}
+.btn-2{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius:5px ;
+}
