@@ -100,7 +100,10 @@ justify-content: center;
     gap: 24px;
     opacity: 100%;
     justify-content:center;
-    display: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
 
 }
 .laste-img{
@@ -108,4 +111,15 @@ justify-content: center;
 }
 .laste-img-2{
     text-align: center;
+    width: 1140px;
+    position: 162px 4900px;
+    padding:48px 64px;
+    gap: 32px;
+    border-radius: 16px;
+    opacity: 100%;
+}
+.section-7{
+    background: color FF 0;;
+    display: flex;
+    justify-content:center;
 }
