@@ -1,8 +1,12 @@
 
 
 .main-banner{
-    width: 1140px;
+    width: 1440px;
     background-image:url("../assets/Hero-bg.png") ;
+}
+.section-2{
+    display: flex;
+justify-content: center;
 }
 
 .section-1-img{
@@ -47,4 +51,20 @@
     justify-content: space-between;
     padding: 20px 30px;
     border-radius: 16px;
+}
+.inspriation-dsc{
+    text-align: center;
+    width: 852px;
+    margin: auto;
+    font-size: 16px;
+    font-weight: 400;
+}
+.dsc-video{
+    width: 1140px;
+    margin: auto;
+    padding:20px;
+    border: 1px solid black;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
 }
