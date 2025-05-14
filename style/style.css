@@ -95,3 +95,17 @@ justify-content: center;
     width:1140px ;
     
 }
+.skills-container-2{
+    width: 946px;
+    gap: 24px;
+    opacity: 100%;
+    justify-content:center;
+    display: auto;
+
+}
+.laste-img{
+    background-image: url("../assets/handshake.jpg");
+}
+.laste-img-2{
+    text-align: center;
+}
